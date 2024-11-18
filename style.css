@@ -359,6 +359,11 @@ article .icon {
   width: 90%;
   height: auto;
 }
+.typeface-video{
+  width: 100%; /* Full width of the container */
+  height: auto; /* Keep the aspect ratio intact */
+  max-width: 800px; /* Set a max width if you want to control the size */
+}
 
 .project-title {
   margin: 1rem;
